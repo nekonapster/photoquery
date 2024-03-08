@@ -1,0 +1,46 @@
+Listado de rutas de carpetas
+El n·mero de serie del volumen es F0F4-451E
+C:.
++---assets
+|   +---img
+|   \---pdf
++---controller
++---css
++---js
++---lib
+|   +---bootstrap513
+|   |   +---css
+|   |   \---js
+|   \---jquery
++---model
++---partials
++---routes
++---vendor
+|   +---composer
+|   +---jean85
+|   |   \---pretty-package-versions
+|   |       +---.github
+|   |       |   \---workflows
+|   |       \---src
+|   |           \---Exception
+|   +---mongodb
+|   |   \---mongodb
+|   |       \---src
+|   |           +---Codec
+|   |           +---Command
+|   |           +---Exception
+|   |           +---GridFS
+|   |           |   \---Exception
+|   |           +---Model
+|   |           \---Operation
+|   +---psr
+|   |   \---log
+|   |       \---src
+|   \---symfony
+|       +---polyfill-php80
+|       |   \---Resources
+|       |       \---stubs
+|       \---polyfill-php81
+|           \---Resources
+|               \---stubs
+\---views

@@ -6,7 +6,7 @@
   <!-- css basico -->
   <link rel="stylesheet" href="../css/style.css">
   <!-- css bootstrap 513 -->
-  <link rel="stylesheet" href="./lib/bootstrap513/css/bootstrap.min.css">
+  <link rel="stylesheet" href="./lib/bootstrap533/css/bootstrap.min.css">
   <title>Photoquery</title>
 </head>
 <body>
