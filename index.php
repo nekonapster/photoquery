@@ -15,7 +15,7 @@
   <div class="container text-center">
     <h1 class="mt-5">LOGIN</h1>
 
-    <form action="./controller/login.php" method="POST">
+    <form action="./controller/functions.php" method="POST">
       <label>
         <input type="text" name="user" placeholder="user" class="mt-5">
       </label>
@@ -27,7 +27,7 @@
       <br>
       <br>
       <label>
-        <input type="submit" name="enviar" value="Entrar" class="btn btn-outline-secondary ">
+        <input type="submit" name="enviar" value="Entrar" class="btn btn-outline-secondary">
       </label>
     </form>
   </div>
